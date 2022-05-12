@@ -1,0 +1,11 @@
+{
+    "name": "local/blog",
+    "description": "Add blog CRUD",
+    "authors": [
+        {
+            "name": "Bhupesh Kushwaha",
+            "email": "bhupeshkumar.kushwaha@nihilent.com"
+        }
+    ],
+    "require": {}
+}
